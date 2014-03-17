@@ -1,6 +1,0 @@
-#using ruby for now to test. Change once finally agreed on tech stack.
-language: ruby
-rvm:
-  - "1.9.3"
-  # uncomment this line if your project needs to run something other than `rake`:
-  # # script: bundle exec rspec spec
